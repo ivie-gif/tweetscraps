@@ -1,0 +1,13 @@
+{
+  "name": "tweetscraps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ivie-gif/tweetscraps.git",
+  "author": "ivie-gif <emwiongbon_ivie@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "reactstrap": "^9.1.5"
+  }
+}
